@@ -9,7 +9,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
   * [Data Structures](#data-structures)
   * [Algebraic Data Types](#algebraic-data-types)
-  * [Libraries](#libraries)
+  * [Work](#work)
   * [Lenses](#lenses)
   * [Compile to JS](#compile-to-js)
   * [Books](#books)
@@ -45,9 +45,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 
-### Libraries
-
-Lirbraries
+### Work
 
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktalejs.org/) – Folktale is a suite of libraries for generic functional programming that allows you to write elegant modular applications with fewer bugs and more reuse.
