@@ -44,8 +44,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
-
-### Work
+### Lenses
 
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktalejs.org/) – Folktale is a suite of libraries for generic functional programming that allows you to write elegant modular applications with fewer bugs and more reuse.
@@ -70,7 +69,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 
 
-### Lenses
+### Work
 
 * [lenses](https://github.com/DrBoolean/lenses) – Composable [kmett](https://github.com/ekmett/lens) style lenses.
 * [optics](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
