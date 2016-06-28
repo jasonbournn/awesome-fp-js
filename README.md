@@ -6,7 +6,8 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
 ##### Table of Contents
 
-* [Libraries](#libraries)
+* [Hi](#Hi)
+  * [Libraries](#libraries)
   * [Data Structures](#data-structures)
   * [Algebraic Data Types](#algebraic-data-types)
   * [Lenses](#lenses)
@@ -18,6 +19,9 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
   * [Examples and Exercises](#examples-and-exercises)
 * [Community](#community)
 * [Contribution](#contribution)
+
+
+## Hi
 
 ### Libraries
 
