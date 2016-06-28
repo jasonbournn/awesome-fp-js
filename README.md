@@ -62,6 +62,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [functionize](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 * [part](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+* [funcy](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. 
+* [date-fp](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
 
 ### Lenses
