@@ -54,6 +54,14 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fnuc](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
 
+* [lambdajs](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+* [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
+* [trifl](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
+* [funcy](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. 
+* [date-fp](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+* [part](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
+* [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+
 
 ### Lenses
 
