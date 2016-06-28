@@ -19,7 +19,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [Community](#community)
 * [Contribution](#contribution)
 
-## Libraries
+### Libraries
 
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktalejs.org/) – Folktale is a suite of libraries for generic functional programming that allows you to write elegant modular applications with fewer bugs and more reuse.
