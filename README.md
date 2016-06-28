@@ -9,7 +9,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
   * [Data Structures](#data-structures)
   * [Algebraic Data Types](#algebraic-data-types)
-  * [Work](#work)
+  * [Libraries](#libraries)
   * [Lenses](#lenses)
   * [Compile to JS](#compile-to-js)
   * [Books](#books)
@@ -44,7 +44,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
-### Lenses
+### Libraries
 
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktalejs.org/) – Folktale is a suite of libraries for generic functional programming that allows you to write elegant modular applications with fewer bugs and more reuse.
@@ -53,23 +53,9 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
-* [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
-* [allong.es](http://allong.es/) – A collection of functions to facilitate writing JavaScript with functions as first-class values, designed to complement libraries like Underscore, not compete with them.
-* [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
-* [fn-curry](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-* [curry](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-* [compose-function](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-* [functionize](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-* [lambdajs](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
-* [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
-* [trifl](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-* [funcy](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. 
-* [date-fp](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
-* [part](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
-* [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 
 
-### Work
+### Lenses
 
 * [lenses](https://github.com/DrBoolean/lenses) – Composable [kmett](https://github.com/ekmett/lens) style lenses.
 * [optics](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
