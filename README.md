@@ -6,22 +6,17 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
 ##### Table of Contents
 
-* [Hi](#Hi)
+
   * [Libraries](#libraries)
   * [Data Structures](#data-structures)
   * [Algebraic Data Types](#algebraic-data-types)
   * [Lenses](#lenses)
-* [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
-* [Resources](#resources)
+  * [Compile to JS](#compile-to-js)
   * [Books](#books)
   * [Articles](#articles)
   * [Videos](#videos)
   * [Examples and Exercises](#examples-and-exercises)
-* [Community](#community)
-* [Contribution](#contribution)
 
-
-## Hi
 
 ### Libraries
 
@@ -82,7 +77,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [nanoscope](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 * [partial.lenses](https://github.com/calmm-js/partial.lenses) – Ramda compatible partial lenses. View, insert and update optional data.
 
-## Functional Languages that Compile to JavaScript
+### Compile to JS
 
 * [ClojureScript](https://github.com/clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 * [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
@@ -96,7 +91,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 
-## Resources
+
 
 ### Books
 
@@ -138,28 +133,3 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [FP Youtube Search](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
 
-## Community
-
-### Related Lists
-
-* [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
-* [lucasviola/Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
-* [xgrommx/Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
-* [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
-
-### Talk
-
-* [Functional Programming Slack channel](https://functionalprogramming.slack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
-
-
-## Contribution
-
-:star: Suggestions and PRs are welcome! :star:
-
-Please read the [contribution guidelines](./contributing.md) to get started.
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.
